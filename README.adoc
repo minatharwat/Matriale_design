@@ -1,0 +1,3 @@
+= XYZ Reader 
+
+This code for metrial design project in Udacity's Android Developer Nanodegree..
